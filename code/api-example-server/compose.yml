@@ -1,0 +1,16 @@
+services:
+  # The name of your service
+  example-api:
+    # 1. Build the image using the Dockerfile in the current directory
+    build:
+      context: .
+      # Specify the name of your Dockerfile if it's not simply 'Dockerfile'
+      # dockerfile: Dockerfile 
+    
+    # 2. Map the port from the container to your host machine
+    # Format: HOST_PORT:CONTAINER_PORT
+    ports:
+      - "8080:8080" 
+      
+    # 3. Restart the container if it stops unexpectedly
+    restart: always
