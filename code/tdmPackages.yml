@@ -1,0 +1,6 @@
+name: ""
+tdVersion: ""
+tdPackages:
+    - package: github.com/torinmb/mediapipe-touchdesigner
+      releaseTag: v0.5.2
+pythonRequirements: []
