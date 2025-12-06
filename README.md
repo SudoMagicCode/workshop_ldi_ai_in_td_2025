@@ -49,64 +49,24 @@ Download and Install a text Editor – [Visual Studio Code] is a great place to 
 
 Take a look at some of the projects featured on the [Derivative Blog] to see what people are making and doing with TouchDesigner.
 
-## Workshop summary
-
-Over the course of the workshop days, participants will walk away with:
-
-* an understanding of working with the environment
-
 ## Schedule
 
-### Session 1
-
 | Time    | Topic                                           |
 | ------- | :---------------------------------------------- |
-| 9:00 AM  | Intro, Context & Routable                       |
-| 10:00 AM | Artist Talk & QA - Matthew & Zoe from SudoMagic |
-| 11:00 AM | What is TouchDesigner                           |
-| 12:00 PM | Navigating the Environment                      |
-| 1:00 PM  | Wrap                                            |
-
-### Session 1 Summary
-
-On our first day we'll focus on the basics. We'll start with a quick round of introductions and then dive into working with TouchDesigner. We'll start by looking at the user interface, and learning about the different operator families. We'll then get started right away by setting up a render network, and working with post processing effects. There are lots of ways we can manipulate video in TouchDesigner, and getting a firm handle on what image manipulation looks like will set us up for working with camera effects in the late afternoon. We'll warp the day by looking at creating custom parameters and outputting our content to another window or another screen.
-
-### Session 2
-
-| Time    | Topic                                           |
-| ------- | :---------------------------------------------- |
-| 2:00 PM | Intro, Context & Routable                       |
-| 3:00 PM | Artist Talk & QA - Matthew & Zoe from SudoMagic |
-| 4:00 PM | What is TouchDesigner                           |
-| 5:00 PM | Navigating the Environment                      |
-| 6:00 PM | Wrap                                            |
-
-### Session 2 Summary
-
-On our first day we'll focus on the basics. We'll start with a quick round of introductions and then dive into working with TouchDesigner. We'll start by looking at the user interface, and learning about the different operator families. We'll then get started right away by setting up a render network, and working with post processing effects. There are lots of ways we can manipulate video in TouchDesigner, and getting a firm handle on what image manipulation looks like will set us up for working with camera effects in the late afternoon. We'll warp the day by looking at creating custom parameters and outputting our content to another window or another screen.
+| 2:00 PM  | Image Generation with ComfyUI & API Overview |
+| 3:00 PM | Text Generation with LM Studio |
+| 4:00 PM | Break |
+| 4:15 PM | Cloud-Based API Calls with Replicate |
+| 5:00 PM | AI Exercises & Experimentation |
+| 6:00 PM | Wrap |
 
 ---
 
 ## Resources
 
-* [Learn TouchDesigner from Derivative]
-* [The Interactive & Immersive HQ]
-* [TouchOSC]
-* [OSC]
-* [Visual Studio Code]
-* [Derivative Blog]
-* [audioAnalysis]
-* [TDAbleton]
+* [DotSimulate]
+* [Media Pipe in TouchDesigner]
 
 <!-- links -->
-[TouchOSC]:https://hexler.net/touchoscO
-[OSC]:https://opensoundcontrol.stanford.edu/
-[Learn TouchDesigner from Derivative]: https://learn.derivative.ca/
-[The Interactive & Immersive HQ]:https://interactiveimmersive.io/
-[System Requirements]: https://docs.derivative.ca/index.php?title=System_Requirements
-[TouchDesigner]: https://derivative.ca/download
-[Derivative Registration]: https://derivative.ca/user/register
-[Visual Studio Code]: https://code.visualstudio.com/
-[Derivative Blog]: https://derivative.ca/showcase
-[audioAnalysis]: https://docs.derivative.ca/Palette:audioAnalysis
-[TDAbleton]: https://docs.derivative.ca/TDAbleton
+[DotSimulate]:https://www.patreon.com/dotsimulate
+[Media Pipe in TouchDesigner]:https://github.com/torinmb/mediapipe-touchdesigner
